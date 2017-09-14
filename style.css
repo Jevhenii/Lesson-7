@@ -1,0 +1,37 @@
+#div{
+	display:inline-block;
+	position:absolute;
+	text-align:left;
+	font-family: 'Roboto', sans-serif;
+	box-shadow: 0 0 80px rgba(0,0,0,0.5);
+	width:1000px;
+	height:500px;
+	padding:30px;
+	margin-left:250px;
+	margin-top:100px;
+	 -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
+#button{
+	width:150px;
+	height:50px;
+	background:#fff;
+	border:1px solid red;
+	color:#FF3737;
+}
+span{
+	font-family: 'Playfair Display', serif;
+	color: #171717;
+	font-size: 75px;
+	float: left;
+	font-weight: 400;
+	line-height: 1.4em;
+	margin-bottom: -0.4em;
+	margin-right: 0.09em;
+	position: relative;
+	margin-top:-25px;
+}
+}
+
+
